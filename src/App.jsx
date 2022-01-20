@@ -29,7 +29,9 @@ function App() {
         <Route exact path="/game" component={Gaming}/>
         <Route exact path="/buy" component={Buy}/>
         <Route exact path="/sign" component={Sign}/>
+        <Route component={Home}/>
       </Switch>
+
       
     </>
   );
