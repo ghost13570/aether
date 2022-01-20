@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aether/static/css/main.e6c13ad2.css",
-    "main.js": "/aether/static/js/main.68d40243.js",
+    "main.js": "/aether/static/js/main.1993267d.js",
     "static/media/boat.jfif": "/aether/static/media/boat.c08fc2ed2d21bc1705e0.jfif",
     "static/media/asus.jpg": "/aether/static/media/asus.02fdf805271cbc925dd4.jpg",
     "index.html": "/aether/index.html",
     "main.e6c13ad2.css.map": "/aether/static/css/main.e6c13ad2.css.map",
-    "main.68d40243.js.map": "/aether/static/js/main.68d40243.js.map"
+    "main.1993267d.js.map": "/aether/static/js/main.1993267d.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.68d40243.js"
+    "static/js/main.1993267d.js"
   ]
 }
